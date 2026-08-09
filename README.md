@@ -9,6 +9,9 @@
 
 Construo produtos completos — backend, frontend e mobile — de SaaS multi-tenant a automações e integrações com IA.
 
+💼 Atualmente Full Stack (PJ) no IPESSP — arquitetura de integração hub-and-spoke com sistema acadêmico, chatbot com IA via WhatsApp e ERP interno.
+🎓 Cursando Engenharia de Software.
+
 ### Stack
 
 <div align="center">
@@ -31,9 +34,6 @@ Construo produtos completos — backend, frontend e mobile — de SaaS multi-ten
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andree911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andree911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andree911&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
@@ -47,7 +47,7 @@ Construo produtos completos — backend, frontend e mobile — de SaaS multi-ten
 | leadflow *(privado)* | CRM de prospecção com IA: busca de leads no LinkedIn, conversa automatizada e nutrição | Next.js · Node.js · BullMQ · Unipile |
 | sistema-juridico *(privado)* | Automação de acompanhamento processual (eProc/e-SAJ): extensão de navegador + backend + painel | NestJS · Vite · Chrome Extension |
 | talky *(privado)* | Chatbot de WhatsApp com assinatura via Mercado Pago | Next.js · Node.js · WPPConnect |
-| app-da-biblia *(privado)* | App de leitura da Bíblia com favoritos, destaques e recursos com IA | Expo · Next.js · Node.js · Gemini |
+| app-da-biblia *(privado)* | "Um com Cristo" — leitor bíblico com feed comunitário, anotações por versículo, chat com IA e planos de leitura | Expo · Next.js · Node.js · Gemini |
 | ipessp-sistema *(privado)* | Sistema acadêmico: backend + painel administrativo + portal do aluno/professor | NestJS · Next.js · Postgres |
 | ipessp-integracao *(privado)* | Integração entre site institucional, WhatsApp (n8n), ERP e Mercado Pago | NestJS · Next.js |
 | erp *(privado)* | SaaS de gestão administrativa (em desenvolvimento inicial) | NestJS · Next.js |
