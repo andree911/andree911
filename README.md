@@ -49,8 +49,8 @@ Desenvolvo aplicações completas e sistemas web e mobile, integrações entre p
 | ipessp-integracao *(privado)* | Integração entre site institucional, WhatsApp (n8n), ERP e Mercado Pago | NestJS · Next.js |
 | erp *(privado)* | SaaS de gestão administrativa (em desenvolvimento inicial) | NestJS · Next.js |
 | sistema-de-gastos *(privado)* | Controle de gastos pessoais | ASP.NET Core · Next.js |
-| [pagina-salao-de-beleza](https://github.com/andree911/pagina-salao-de-beleza) | Landing page para salão de beleza | HTML/CSS/JS |
-| [pagina-vendas-ebook](https://github.com/andree911/pagina-vendas-ebook) | Landing page de vendas de e-book | HTML/CSS/JS |
+| [studio-noir](https://github.com/andree911/studio-noir) | Landing page para salão de beleza | HTML/CSS/JS |
+| [evolua](https://github.com/andree911/evolua) | Landing page de vendas de e-book | HTML/CSS/JS |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0EA5E9&height=100&section=footer" width="100%"/>
