@@ -7,9 +7,7 @@
 
 </div>
 
-Construo produtos completos — backend, frontend e mobile — de SaaS multi-tenant a automações e integrações com IA.
-
-Atualmente Full Stack (PJ) no IPESSP — arquitetura de integração hub-and-spoke com sistema acadêmico, chatbot com IA via WhatsApp e ERP interno. Cursando Engenharia de Software.
+Desenvolvo aplicações completas e sistemas web e mobile, integrações entre plataformas e automações.
 
 ### Stack
 
