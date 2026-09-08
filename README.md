@@ -40,10 +40,9 @@ Desenvolvo aplicações completas e sistemas web e mobile, integrações entre p
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [livropedia](https://github.com/andree911/livropedia) | Catálogo de livros com avaliações, listas de leitura e busca/tradução via IA | Next.js · Flask · Postgres |
-| vendaê *(privado)* | SaaS multi-tenant de e-commerce | Next.js · Express · MongoDB · Stripe |
-| leadflow *(privado)* | CRM de prospecção com IA: busca de leads no LinkedIn, conversa automatizada e nutrição | Next.js · Node.js · BullMQ · Unipile |
+| [vendaê](https://github.com/andree911/vendae-showcase) | SaaS multi-tenant de e-commerce: cada empresa com loja, catálogo e checkout próprios | Next.js · Express · MongoDB · Stripe · Mercado Pago |
+| [kliento](https://github.com/andree911/kliento-showcase) | CRM comercial leve: funil de vendas, follow-up e histórico de conversa por cliente, contato via WhatsApp | Next.js · Node.js · MongoDB · Mercado Pago |
 | sistema-juridico *(privado)* | Automação de acompanhamento processual (eProc/e-SAJ): extensão de navegador + backend + painel | NestJS · Vite · Chrome Extension |
-| talky *(privado)* | Chatbot de WhatsApp com assinatura via Mercado Pago | Next.js · Node.js · WPPConnect |
 | um-com-cristo *(privado)* | Leitor bíblico com feed comunitário, anotações por versículo, chat com IA e planos de leitura | Expo · Next.js · Node.js · Gemini |
 | ipessp-sistema *(privado)* | Sistema acadêmico: backend + painel administrativo + portal do aluno/professor | NestJS · Next.js · Postgres |
 | ipessp-integracao *(privado)* | Integração entre site institucional, WhatsApp (n8n), ERP e Mercado Pago | NestJS · Next.js |
