@@ -46,6 +46,7 @@ Desenvolvo aplicações completas e sistemas web e mobile, integrações entre p
 | [um-com-cristo](https://github.com/andree911/um-com-cristo-showcase) | Leitor bíblico com feed comunitário, anotações por versículo e planos de leitura | Expo · Next.js · Node.js · MongoDB |
 | ipessp-sistema *(privado)* | Sistema acadêmico: backend + painel administrativo + portal do aluno/professor | NestJS · Next.js · Postgres |
 | ipessp-integracao *(privado)* | Integração entre site institucional, WhatsApp (n8n), ERP e Mercado Pago | NestJS · Next.js |
+| ipessp-api *(privado)* | Chatbot de atendimento via WhatsApp do IPESSP, com IA (Claude) | Node.js · Express · PostgreSQL · Claude |
 | erp *(privado)* | SaaS de gestão administrativa (em desenvolvimento inicial) | NestJS · Next.js |
 | [sistema-de-gastos](https://github.com/andree911/sistema-de-gastos) | Controle de gastos pessoais | ASP.NET Core · Angular |
 | [studio-noir](https://github.com/andree911/studio-noir) | Landing page para salão de beleza | HTML/CSS/JS |
