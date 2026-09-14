@@ -43,11 +43,11 @@ Desenvolvo aplicações completas e sistemas web e mobile, integrações entre p
 | [vendaê](https://github.com/andree911/vendae-showcase) | SaaS multi-tenant de e-commerce: cada empresa com loja, catálogo e checkout próprios | Next.js · Express · MongoDB · Stripe · Mercado Pago |
 | [kliento](https://github.com/andree911/kliento-showcase) | CRM comercial leve: funil de vendas, follow-up e histórico de conversa por cliente, contato via WhatsApp | Next.js · Node.js · MongoDB · Mercado Pago |
 | sistema-juridico *(privado)* | Automação de acompanhamento processual (eProc/e-SAJ): extensão de navegador + backend + painel | NestJS · Vite · Chrome Extension |
-| um-com-cristo *(privado)* | Leitor bíblico com feed comunitário, anotações por versículo, chat com IA e planos de leitura | Expo · Next.js · Node.js · Gemini |
+| [um-com-cristo](https://github.com/andree911/um-com-cristo-showcase) | Leitor bíblico com feed comunitário, anotações por versículo e planos de leitura | Expo · Next.js · Node.js · MongoDB |
 | ipessp-sistema *(privado)* | Sistema acadêmico: backend + painel administrativo + portal do aluno/professor | NestJS · Next.js · Postgres |
 | ipessp-integracao *(privado)* | Integração entre site institucional, WhatsApp (n8n), ERP e Mercado Pago | NestJS · Next.js |
 | erp *(privado)* | SaaS de gestão administrativa (em desenvolvimento inicial) | NestJS · Next.js |
-| sistema-de-gastos *(privado)* | Controle de gastos pessoais | ASP.NET Core · Next.js |
+| [sistema-de-gastos](https://github.com/andree911/sistema-de-gastos) | Controle de gastos pessoais | ASP.NET Core · Next.js |
 | [studio-noir](https://github.com/andree911/studio-noir) | Landing page para salão de beleza | HTML/CSS/JS |
 | [evolua](https://github.com/andree911/evolua) | Landing page de vendas de e-book | HTML/CSS/JS |
 
